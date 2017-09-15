@@ -12,6 +12,9 @@ but yeah, atleast tomorrow i'll try something like that
 
 Wish me luck
 
+## Changelog:
+- Scrolling Gacha is now live
+
 ## Source:
 Electronic Music
 

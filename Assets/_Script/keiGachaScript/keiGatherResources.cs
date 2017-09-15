@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/// <summary>
+/// keiGatherResources V 1.0
+/// Kei Lazu
+/// 
+/// Get all resources needed
+/// </summary>
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

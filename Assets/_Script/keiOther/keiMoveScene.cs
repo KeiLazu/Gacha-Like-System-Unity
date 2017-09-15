@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/// <summary>
+/// keiMoveScene V 1.0
+/// Kei Lazu
+/// 
+/// For move between scene
+/// </summary>
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
